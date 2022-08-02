@@ -22,7 +22,9 @@ nvm install --lts
 
 - For install Specific version
 nvm install 8.17.0
+
 nvm install v10.24.1
+
 nvm install v12.22.7
 
 
