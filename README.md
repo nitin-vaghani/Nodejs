@@ -46,6 +46,6 @@ sudo apt remove nodejs npm
 # You can run a Node script with the desired version of node.js using the below command:
 nvm exec 12.18.3 server.js 
 
-For More info Visit : [https://github.com/nitin-vaghani/nodejs/blob/8cc973554f1ac05d7ce0c3e54c72fca617074485/how-to-install-node-js-in-ubuntu.sh](https://github.com/nitin-vaghani/nodejs/blob/main/how-to-install-node-js-in-ubuntu.sh)
+For More info Visit : https://github.com/nitin-vaghani/nodejs
 
 
