@@ -26,19 +26,21 @@ nvm install v10.24.1
 nvm install v12.22.7
 
 
-# o list installed Node.js versions type:
+# To list installed Node.js versions type:
 nvm ls
 
-# hange node version
+# Change node version
 nvm use v10.24.1
 
-#If you want to change the default Node.js version
+# If you want to change the default Node.js version
 nvm alias default v10.24.1
 
-#FOR REMOVE NODEJS & NPM
+# FOR REMOVE NODEJS & NPM
 sudo apt remove nodejs npm
 
-You can run a Node script with the desired version of node.js using the below command:
+# You can run a Node script with the desired version of node.js using the below command:
 nvm exec 12.18.3 server.js 
+
+For More info Visit : https://github.com/nitin-vaghani/nodejs/blob/8cc973554f1ac05d7ce0c3e54c72fca617074485/how-to-install-node-js-in-ubuntu.sh
 
 
