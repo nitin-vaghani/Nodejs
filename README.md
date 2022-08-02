@@ -3,7 +3,8 @@ How to install node JS
 
 sudo apt-get install build-essential libssl-dev curl git-core
 
-#Installing NVM (Node Version Manager) script
+# Installing NVM (Node Version Manager) script
+
 sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 export NVM_DIR="$HOME/.nvm"
