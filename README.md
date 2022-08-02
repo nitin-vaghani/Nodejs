@@ -13,7 +13,7 @@ export NVM_DIR="$HOME/.nvm"
 
 nvm --version
 
-#Installing Node.js and npm
+# Installing Node.js and npm
 - For Install latest version
 nvm install node
 
@@ -26,10 +26,10 @@ nvm install v10.24.1
 nvm install v12.22.7
 
 
-#To list installed Node.js versions type:
+# o list installed Node.js versions type:
 nvm ls
 
-#Change node version
+# hange node version
 nvm use v10.24.1
 
 #If you want to change the default Node.js version
