@@ -15,12 +15,15 @@ nvm --version
 
 # Installing Node.js and npm
 - For Install latest version
+
 nvm install node
 
 - For install LTS version
+
 nvm install --lts
 
 - For install Specific version
+
 nvm install 8.17.0
 
 nvm install v10.24.1
